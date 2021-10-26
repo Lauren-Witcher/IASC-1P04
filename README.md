@@ -3,4 +3,4 @@ Welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 
 ## Playtest
 
-Playtest my game [here]().
+Playtest the BlackHoleStation game made by following lesson videos [here]().
