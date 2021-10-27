@@ -19,6 +19,6 @@ Creative Commons 0 Licence
 by justkiddink
 
 2009 - Licened under
-Attributuon Licence 3.0
+Attribution 3.0 Unported
 
 ---
