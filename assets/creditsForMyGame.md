@@ -23,7 +23,7 @@ Attribution 3.0 Unported
 
 ---
 
-"Orchestral Suspense Loop 3 
+"Orchestral Suspense Loop 3"
 by awrmacd
 
 2017 - Licened under
@@ -31,9 +31,9 @@ Creative Commons 0 Licence
 
 ---
 
-"Unsafeness - retro 80s ( Suspence type)"
-by PSOVOD
+"Suspense music.mp3"
+by Darkash28
 
-2018 - Licensed under
+2020 - Licensed under
 Licened under
-Attribution 3.0 Unported
+Creative Commons 0 Licence
